@@ -1,0 +1,34 @@
+_repo: Masters-of-the-vortex_68397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Edward Elmer
+    - Smith, Doc
+    - Smith, Edward E.
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
+description: 'Also published as: The vortex blaster, #22629.'
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68397'
+language: en
+pgterms:marc905: 20220605104612smith
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan, Al Haines, Cindy Beyer & the online Distributed
+  Proofreaders Canada team at http://www.pgdpcanada.net
+publication_note: United States :Pyramid Publications, Inc.,1960,reprint 1968.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Masters of the vortex
+url: http://www.gutenberg.org/ebooks/68397
